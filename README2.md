@@ -30,6 +30,11 @@ Instalamos typescript: npm i typescript -D
 
 Ahora creamos el tsconifg.json para compilar: npx tsc –init
 
+Luego ejecutamos:
+
+npx tsc   ----> compila el codigo y genera la carpeta /dist con el codigo compilado
+
+
 Instalamos una dependencia que monitoreará si hay cambios en el código, para que compile actuando similarmente a nodemon: npm i ts-node-dev -D.
 
 Es recomendable que instalemos Morgan para poder ver por la terminal las peticiones que llegan: npm i morgan cors . Cors en este caso es por si deseamos comunicarnos con un servidor externo.
