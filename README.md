@@ -1,5 +1,8 @@
 <h1>
   Sistema de reserva Tickets para Eventos
+
+  ![TicketsWhoNeedsTicketsGIF](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/0710124e-e7fe-4753-8f7b-13484ed68e82)
+
 <h1>
 
   
@@ -49,6 +52,9 @@ Una vez posicionados allí ejecutamos lo siguiente:
 docker-compose up -d
 
 **Aviso!**
+
+![WarningAlarmGIF](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/fcfa16b2-f524-4348-b5cc-f328de676fe8)
+
 
 Si ya se tiene una base de datos en el puerto 3306:3306 pueden llegarse a perder los datos anteriormente cargados si hay coincidencias con los nombres de las Entidades usadas en esta api. Al momento que se proceda a ejecutar el programa.
 </p>
