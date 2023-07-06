@@ -7,7 +7,7 @@
 
   
 <h4>
-Esta Api es para manejar la gestion de los usuarios, los eventos a los cuales podrán reservar sus tickets para verlo los usuarios. Y la gestión para las reservas que hacen los usuarios para ver un evento,  como la fecha en la que lo quieren ver, el lugar, etc.
+Esta Api es para manejar la gestion de los usuarios en donde cada usuario creara su cuenta, los eventos a los cuales podrán reservar sus tickets los usuarios para poder verlos. Y la gestión para las reservas que hacen los usuarios para ver un evento,  como la fecha en la que lo quieren ver, el lugar, el horario, etc.
 </h4>
 
 <h3>
@@ -18,7 +18,7 @@ Esta Api es para manejar la gestion de los usuarios, los eventos a los cuales po
 
 
 <h2>
-  Instalacion de las librerías que se usarán en la api
+  Instalacion de las librerías que se usarán en la Api
   
   ![AlwaysKeepAFullBookcaseGIF](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/932aa86b-8e46-42ec-89b4-fb4ca30d810e)
 
@@ -80,5 +80,6 @@ Gracias por usar la Api!
   Que tengas un lindo dia :D
 </h4>
 
-😊😁👍![MuaKissGIF](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/a8eae7bb-975a-4c8a-9b40-7fef7592a643)
+😊😁👍![SonicThumbsUpGIF](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/f6390931-8e1f-4628-8288-f807b2a5ce34)
+
 
