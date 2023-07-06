@@ -28,6 +28,10 @@ Se debe ejecutar en la terminal del proyecto el siguiente comando:
 Gracias por usar el proyecto!
 </h5>
 :tw-1f60a::tw-1f60e:
+
+
+
+
 ![image](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/167c5f70-6181-407c-a55c-2303105b635a)
 
 
