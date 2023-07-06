@@ -15,7 +15,7 @@ Esta api es para manejar la gestion de los usuarios, los eventos a los cuales po
 
 
 <h2>
-  Instalacion del paquete node y las librerías que se usarán en el sistema
+  Instalacion de las librerías que se usarán en la api
 </h2>
 
 
@@ -62,7 +62,9 @@ npm run dev
 </p>
 
 <h4>
-Gracias por usar el proyecto!
+Gracias por usar la api!
+  Que tengas un lindo dia :D
 </h4>
 
-:tw-1f60a::tw-1f60e:
+😊😁👍![MuaKissGIF](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/a8eae7bb-975a-4c8a-9b40-7fef7592a643)
+
