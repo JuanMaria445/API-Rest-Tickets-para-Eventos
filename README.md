@@ -55,12 +55,16 @@ Una vez posicionados allí ejecutamos lo siguiente:
 
 docker-compose up -d
 
+![image](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/d6d63ac5-f9f4-4bbd-832a-553d4b81137e)
+
+Y vemos que ya tenemos el container para nuestra Base de Datos.
+
 **Aviso!**
 
 ![WarningAlarmGIF](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/fcfa16b2-f524-4348-b5cc-f328de676fe8)
 
 
-Si ya se tiene una base de datos en el puerto 3306:3306 pueden llegarse a perder los datos anteriormente cargados si hay coincidencias con los nombres de las Entidades usadas en esta Api. Al momento que se proceda a ejecutar el programa.
+Si ya se tiene una base de datos en el puerto 3306 pueden llegarse a perder los datos anteriormente cargados y reemplazarse las entidades que se estaban manejando. Al momento que se proceda a ejecutar el programa.
 </p>
 <h3>
 Ejecución del sistema
