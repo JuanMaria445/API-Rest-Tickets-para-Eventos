@@ -1,6 +1,7 @@
 <h1>
   Sistema de reserva Tickets para Eventos
 <h1>
+  
 <p>
 Esta api es para manejar la gestion de los usuarios, los eventos a los cuales podrán reserva su ticket para verlo los usuarios. Y la gestion para las reservas que hacen los usuarios para ver un evento,  como la fecha en la que lo quieren ver, el lugar, etc.
 </p>
