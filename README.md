@@ -3,6 +3,13 @@
 Esta api es para manejar la gestion de los usuarios, los eventos a los cuales podrán reserva su ticket para verlo los usuarios. Y la gestion para las reservas que hacen los usuarios para ver un evento,  como la fecha en la que lo quieren ver, el lugar, etc.
 </p>
 
+<h3>
+  Entidades que manejaremos:
+</h3>
+
+![image](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/3a9ef810-8de6-49ed-9421-85f9f5b4f292)
+
+
 <h2>
 Instalacion de la Base de Datos
 </h2>
