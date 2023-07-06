@@ -20,46 +20,10 @@ Esta api es para manejar la gestion de los usuarios, los eventos a los cuales po
 
 
 <p>
-  Instalamos en el siguiente orden lo que necesitamos para utilizar la aplicación:
+  Para las librerías copiamos la siguiente linea y la ejecutamos en la terminal:
+
   
-Primero escribimos en la terminal -->  npm init. Para crear el archivo package.json.
-
-Luego instalamos express para poder usar los endPoints -->  npm install express –save
-
-Instalamos typescript: npm i typescript -D
-
-Ahora creamos el tsconifg.json para compilar: npx tsc –init
-
-Luego ejecutamos:
-
-npx tsc   ----> compila el codigo y genera la carpeta /dist con el codigo compilado
-
-
-Instalamos una dependencia que monitoreará si hay cambios en el código, para que compile actuando similarmente a nodemon: npm i ts-node-dev -D.
-
-Es recomendable que instalemos Morgan para poder ver por la terminal las peticiones que llegan: npm i morgan cors . Cors en este caso es por si deseamos comunicarnos con un servidor externo.
-
-Además instalamos estos modos útiles que nos ayudaran a ver los intentos de acceso en un log : npm i @types/morgan
-
-Instalamos TypeORM para poder hacer uso de los decoradores: --> npm install typeorm –save.
-
-Luego reflect-metada: npm install reflect-metadata –save.
-
-Seguimos con con los typescript de node:  npm install @types/node –save-dev
-
-Y el driver de la BD:  npm install mysql --save
-
-Ahora para poder hacer el Login y asegurar las operaciones con cada usuario instalamos lo siguiente:
-
-Instalamos JWT para manejar de manera mas segura nuestros endPoints:  npm install –save jsonwebtoken.
-
-A continuación instalamos bcrypt para asegurar las contraseñas:  npm install bcrypt
-
-Luego Passport para usar estrategias de autenticación y autorización:  npm install passport-jwt
-
-Y los types de cada uno de estos:  npm i -D @types/passport @types/passport-jwt @types/jsonwebtoken @types/bcrypt
-
-
+ npm install express typescript -D ts-node-dev -D morgan cors @types/morgan typeorm reflect-metadata @types/node --save-dev mysql --save --save jsonwebtoken bcrypt passport-jwt -D @types/passport @types/passport-jwt @types/jsonwebtoken @types/bcrypt @types/express
 </p>
 
 <h2>
