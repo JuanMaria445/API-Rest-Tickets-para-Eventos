@@ -21,16 +21,16 @@ Una vez instalado lo procederemos a abrir.
 
 Si ya se tiene una base de datos en el puerto 3306:3306 pueden llegarse a perder los datos anteriormente cargados si hay coincidencias con los nombres de las Entidades usadas en esta api. Al momento que se proceda a ejecutar el programa.
 </p>
-<h4>
+<h3>
 Ejecucion
-</h4>
+</h3>
 <p>
 Se debe ejecutar en la terminal del proyecto el siguiente comando:
-`$ npm run dev`
+npm run dev
 </p>
 
-<h5>
+<h4>
 Gracias por usar el proyecto!
-</h5>
+</h4>
 
 :tw-1f60a::tw-1f60e:
