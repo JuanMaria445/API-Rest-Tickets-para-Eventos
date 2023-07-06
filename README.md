@@ -7,7 +7,7 @@
 
   
 <h4>
-Esta Api es para manejar la gestion de los usuarios en donde cada usuario creara su cuenta, los eventos a los cuales podrán reservar sus tickets los usuarios para poder verlos. Y la gestión para las reservas que hacen los usuarios para ver un evento,  como la fecha en la que lo quieren ver, el lugar, el horario, etc.
+Esta API es para manejar la gestion de los usuarios en donde cada usuario creara su cuenta, los eventos a los cuales podrán reservar sus tickets los usuarios para poder verlos. Y la gestión para las reservas que hacen los usuarios para ver un evento,  como la fecha en la que lo quieren ver, el lugar, el horario, etc.
 </h4>
 
 <h3>
@@ -18,7 +18,7 @@ Esta Api es para manejar la gestion de los usuarios en donde cada usuario creara
 
 
 <h2>
-  Instalacion de las librerías que se usarán en la Api
+  Instalacion de las librerías que se usarán en la API
   
   ![AlwaysKeepAFullBookcaseGIF](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/932aa86b-8e46-42ec-89b4-fb4ca30d810e)
 
@@ -80,7 +80,7 @@ npm run dev
 </p>
 
 <h4>
-Gracias por usar la Api!
+Gracias por usar la API!
   Que tengas un lindo dia :D
 </h4>
 
