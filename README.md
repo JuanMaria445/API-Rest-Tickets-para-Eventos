@@ -63,7 +63,11 @@ docker-compose up -d
 Si ya se tiene una base de datos en el puerto 3306:3306 pueden llegarse a perder los datos anteriormente cargados si hay coincidencias con los nombres de las Entidades usadas en esta api. Al momento que se proceda a ejecutar el programa.
 </p>
 <h3>
-Ejecucion
+Ejecucion del sistema
+
+![ComputerOnWarriorsSongGIF](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/18c0005e-389c-4113-9e0b-672eeddad7c2)
+
+  
 </h3>
 <p>
 Se debe ejecutar en la terminal del proyecto el siguiente comando:
