@@ -38,7 +38,7 @@ Ejecucion
 <p>
 Se debe ejecutar en la terminal del proyecto el siguiente comando:
   
-´$npm run dev´
+npm run dev
 </p>
 
 <h4>
