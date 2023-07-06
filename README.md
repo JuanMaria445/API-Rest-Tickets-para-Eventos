@@ -3,9 +3,9 @@
 <h1>
 
   
-<h5>
+<h4>
 Esta api es para manejar la gestion de los usuarios, los eventos a los cuales podrán reserva su ticket para verlo los usuarios. Y la gestion para las reservas que hacen los usuarios para ver un evento,  como la fecha en la que lo quieren ver, el lugar, etc.
-</h5>
+</h4>
 
 <h3>
   Entidades que manejaremos:
