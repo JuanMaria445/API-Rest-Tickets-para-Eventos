@@ -24,7 +24,7 @@ function main() {
             yield db_1.AppDataSource.initialize(); //metodo de AppDataSource que es una clase de TypeORM
             console.log('Database Connected...');
             app_1.default.listen(port, () => console.log(`Escuchando en el puerto ${port}!`));
-            console.log('Hello Typescript');
+            console.log('Bienvenido!');
         }
         catch (error) {
             console.error(error);
