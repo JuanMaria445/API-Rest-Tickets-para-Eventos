@@ -30,7 +30,7 @@ Esta API es para manejar la gestion de los usuarios en donde cada usuario creara
   Para las librerías copiamos la siguiente línea y la ejecutamos en la terminal:
 
   
- npm install express typescript -D ts-node-dev -D morgan cors @types/morgan typeorm reflect-metadata @types/node --save-dev mysql --save --save jsonwebtoken bcrypt passport-jwt -D @types/passport @types/passport-jwt @types/jsonwebtoken @types/bcrypt @types/express
+ npm install express typescript -D ts-node-dev -D morgan cors @types/morgan typeorm reflect-metadata @types/node --save-dev mysql --save --save jsonwebtoken bcrypt passport-jwt -D @types/passport @types/passport-jwt @types/jsonwebtoken @types/bcrypt @types/express typeorm --save
 </p>
 
 <h2>
