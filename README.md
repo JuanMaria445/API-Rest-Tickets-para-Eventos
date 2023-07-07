@@ -17,6 +17,19 @@ Esta API es para manejar la gestion de los usuarios en donde cada usuario creara
 ![image](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/3a9ef810-8de6-49ed-9421-85f9f5b4f292)
 
 
+<h3>
+  Funciones que se pueden hacer con las entidades:
+</h3>
+
+![image](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/69a104f9-2869-42bb-b69b-381f1cde2ed5)
+
+![image](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/e5f04c8d-288d-48f5-9d02-2e32e2ae6ae3)
+
+![image](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/edd1f31b-86e7-4047-a772-818371f9cdb1)
+
+
+
+
 <h2>
   Instalacion de las librerías que se usaron en la API en caso de algún error no previsto!
   
