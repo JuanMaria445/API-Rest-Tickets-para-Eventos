@@ -18,7 +18,7 @@ Esta API es para manejar la gestion de los usuarios en donde cada usuario creara
 
 
 <h2>
-  Instalacion de las librerías que se usarán en la API
+  Instalacion de las librerías que se usaron en la API en caso de algún error no previsto!
   
   ![AlwaysKeepAFullBookcaseGIF](https://github.com/JuanMaria445/Api-Rest-de-Tickets-para-Eventos/assets/69771376/932aa86b-8e46-42ec-89b4-fb4ca30d810e)
 
