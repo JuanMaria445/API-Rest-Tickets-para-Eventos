@@ -76,7 +76,7 @@ Ejecución del sistema
 <p>
 Se debe ejecutar en la terminal del proyecto el siguiente comando:
   
-npm run dev
+npm start
 </p>
 
 <h4>
