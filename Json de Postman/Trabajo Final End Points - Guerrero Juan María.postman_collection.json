@@ -209,7 +209,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"nombre\": \"Star Wars El Amancer\",\r\n    \"descripcion\": \"Obra inspirada en la legendaria saga de George Lucas\",\r\n    \"lugar\": \"Teatro Mitre - Jujuy\",\r\n    \"fechaHora\": \"15/07/2023 20:30\",\r\n    \"precio\": \"8000\",\r\n    \"gps\": \"Gral. Alvear 1009\",\r\n    \"limite\": \"0\",\r\n    \"tipoEvento\": \"Obra Teatral\"\r\n}",
+							"raw": "{\r\n    \"nombre\": \"Star Wars El Amancer\",\r\n    \"descripcion\": \"Obra inspirada en la legendaria saga de George Lucas\",\r\n    \"lugar\": \"Teatro Mitre - Jujuy\",\r\n    \"fechaHora\": \"2023-07-18T19:00.000\",\r\n    \"precio\": \"8000\",\r\n    \"gps\": \"Gral. Alvear 1009\",\r\n    \"limite\": \"0\",\r\n    \"tipoEvento\": \"Obra Teatral\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -303,7 +303,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"id_event\": \"1\",\r\n    \"id_user\": \"1\",\r\n    \"precio\": \"\",\r\n    \"fechaHora\": \"\",\r\n    \"lugar\": \"\",\r\n    \"gps\": \"\"\r\n}",
+							"raw": "{\r\n    \"id_event\": \"1\",\r\n    \"id_user\": \"1\",\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -338,7 +338,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"fechaHora\": \"15/07/2023 20:30\"\r\n}",
+							"raw": "{\r\n    \"fechaHora\": \"2023-10-28T20:30\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
